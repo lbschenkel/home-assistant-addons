@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.9.0-lbschenkel-2.12.2
+
+- Bump deCONZ to 2.12.2-beta
+
 ## 6.9.0-lbschenkel-2.12.1
 
 - Bump deCONZ to 2.12.1-beta
